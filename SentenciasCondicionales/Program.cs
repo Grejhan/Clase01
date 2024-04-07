@@ -41,7 +41,7 @@ Console.WriteLine("ingrese un numero");
 int numero = Convert.ToInt32(Console.ReadLine());
 
 if (numero  == 0) {
-    Console.WriteLine("el numero ingresado  es igual a :" + numero );
+    Console.WriteLine("el numero ingresado  es igual A :" + numero );
 }
 else if (numero % 2 == 0)
 {
